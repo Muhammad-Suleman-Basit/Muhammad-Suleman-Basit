@@ -23,11 +23,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&logo=github&label=FOLLOWERS&color=7C3AED&labelColor=1E1B34" alt="Followers"/></a>
-&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat-square&logo=github&label=STARS&color=A855F7&labelColor=1E1B34" alt="Stars"/></a>
+
 
 </div>
 
