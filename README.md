@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,30:4C1D95,70:6D28D9,100:A855F7&height=260&section=header&text=Muhammad%20Suleman&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=React%20Native%20Developer%20%E2%80%A2%20Cross-Platform%20Mobile%20Apps%20for%20Android%20%26%20iOS&descSize=18&descAlignY=54" width="100%" alt="Muhammad Suleman — React Native Developer"/>
 
 <a href="https://react-native-developer-j9rf.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=780&height=62&lines=React+Native+Developer+%F0%9F%93%B1;Cross-Platform+Apps+%E2%80%A2+Android+%26+iOS;JavaScript+(ES6%2B)+%E2%80%A2+React+%E2%80%A2+Expo;QA-Grade+Quality+%2B+PM-Grade+Communication;AI-Assisted+Development%2C+Every+Single+Day" alt="Typing SVG" />
@@ -13,11 +12,6 @@
 <img src="https://img.shields.io/badge/💼_Open_To-React_Native_Internships-A855F7?style=for-the-badge&labelColor=1E1B34" alt="Open To"/>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Suleman-Basit&label=Profile+Views&color=8B5CF6&style=for-the-badge&labelColor=1E1B34" alt="Profile Views"/>
-<a href="https://github.com/Muhammad-Suleman-Basit?tab=followers"><img src="https://img.shields.io/github/followers/Muhammad-Suleman-Basit?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B34&color=6E40C9" alt="Followers"/></a>
-<img src="https://img.shields.io/badge/Reply_Time-⚡_Fast-A855F7?style=for-the-badge&labelColor=1E1B34" alt="Reply Time"/>
-
 <br/><br/>
 
 <a href="https://react-native-developer-j9rf.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-312E81?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B34" alt="Portfolio"/></a>&nbsp;
